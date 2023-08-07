@@ -35,6 +35,11 @@ body{
     margin: 10px;
     font-style: italic;
 }
+.dev{
+    font-size: 18px;
+    margin: 10px;
+    font-style: italic;
+}
 
 .btn{
     border-radius: 5px;
